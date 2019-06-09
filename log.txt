@@ -1,0 +1,539 @@
+**********EVENT INFO*********
+0
+Name of the Venue: Mollenpark
+Venue Location: Aalborg
+Date of the Event: 2019-06-01T19:00:44
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Lanxess Arena
+Venue Location: Cologne
+Date of the Event: 2019-06-03T19:00:11
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: O2 ARENA
+Venue Location: Prague
+Date of the Event: 2019-06-05T19:00:34
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Tauron Arena
+Venue Location: Kraków
+Date of the Event: 2019-06-06T19:00:29
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Wembley Stadium
+Venue Location: Wembley
+Date of the Event: 2019-06-08T19:00:51
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-06-10T19:00:09
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-06-11T19:00:06
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: Coca-Cola Arena
+Venue Location: Dubai
+Date of the Event: 2019-06-14T19:00:04
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Villa Mix
+Venue Location: São Paulo
+Date of the Event: 2019-07-06T19:00:12
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Curacao North Sea Jazz Festival
+Venue Location: Curacao
+Date of the Event: 2019-08-31T19:00:04
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Mollenpark
+Venue Location: Aalborg
+Date of the Event: 2019-06-01T19:00:44
+-----------------------
+**********EVENT INFO*********
+1
+Name of the Venue: Lanxess Arena
+Venue Location: Cologne
+Date of the Event: 2019-06-03T19:00:11
+-----------------------
+**********EVENT INFO*********
+2
+Name of the Venue: O2 ARENA
+Venue Location: Prague
+Date of the Event: 2019-06-05T19:00:34
+-----------------------
+**********EVENT INFO*********
+3
+Name of the Venue: Tauron Arena
+Venue Location: Kraków
+Date of the Event: 2019-06-06T19:00:29
+-----------------------
+**********EVENT INFO*********
+4
+Name of the Venue: Wembley Stadium
+Venue Location: Wembley
+Date of the Event: 2019-06-08T19:00:51
+-----------------------
+**********EVENT INFO*********
+5
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-06-10T19:00:09
+-----------------------
+**********EVENT INFO*********
+6
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-06-11T19:00:06
+-----------------------
+**********EVENT INFO*********
+7
+Name of the Venue: Coca-Cola Arena
+Venue Location: Dubai
+Date of the Event: 2019-06-14T19:00:04
+-----------------------
+**********EVENT INFO*********
+8
+Name of the Venue: Villa Mix
+Venue Location: São Paulo
+Date of the Event: 2019-07-06T19:00:12
+-----------------------
+**********EVENT INFO*********
+9
+Name of the Venue: Curacao North Sea Jazz Festival
+Venue Location: Curacao
+Date of the Event: 2019-08-31T19:00:04
+-----------------------
+0
+Name of the Venue: Mollenpark
+Venue Location: Aalborg
+Date of the Event: 2019-06-01T19:00:44
+-----------------------
+1
+Name of the Venue: Lanxess Arena
+Venue Location: Cologne
+Date of the Event: 2019-06-03T19:00:11
+-----------------------
+2
+Name of the Venue: O2 ARENA
+Venue Location: Prague
+Date of the Event: 2019-06-05T19:00:34
+-----------------------
+3
+Name of the Venue: Tauron Arena
+Venue Location: Kraków
+Date of the Event: 2019-06-06T19:00:29
+-----------------------
+4
+Name of the Venue: Wembley Stadium
+Venue Location: Wembley
+Date of the Event: 2019-06-08T19:00:51
+-----------------------
+5
+Name of the Venue: Ziggo Dome
+Venue Location: Amsterdam
+Date of the Event: 2019-06-10T19:00:09
+-----------------------
+6
+Name of the Venue: AccorHotels Arena
+Venue Location: Paris
+Date of the Event: 2019-06-11T19:00:06
+-----------------------
+7
+Name of the Venue: Coca-Cola Arena
+Venue Location: Dubai
+Date of the Event: 2019-06-14T19:00:04
+-----------------------
+8
+Name of the Venue: Villa Mix
+Venue Location: São Paulo
+Date of the Event: 2019-07-06T19:00:12
+-----------------------
+9
+Name of the Venue: Curacao North Sea Jazz Festival
+Venue Location: Curacao
+Date of the Event: 2019-08-31T19:00:04
+-----------------------
+0
+song name: This Feeling
+preview song: https://p.scdn.co/mp3-preview/c30eb8833d9d5e9bb377a0521fffc02b80388cf1?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Sick Boy
+artist(s): The Chainsmokers
+-----------------------
+1
+song name: Kill This Love
+preview song: null
+album: KILL THIS LOVE
+artist(s): BLACKPINK
+-----------------------
+2
+song name: Nights Like This (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/becd086dc3c299fa16cb92070c91fe8d6e9f9a5e?cid=70f3ef8a364f451cb421916c3dc8a041
+album: While We Wait
+artist(s): Kehlani
+-----------------------
+3
+song name: I Don't Belong In This Club
+preview song: https://p.scdn.co/mp3-preview/4b2c89570f38e9a0276f20b51f90f1c6481924fc?cid=70f3ef8a364f451cb421916c3dc8a041
+album: I Don't Belong In This Club
+artist(s): Why Don't We
+-----------------------
+4
+song name: Beautiful Crazy
+preview song: https://p.scdn.co/mp3-preview/46f30246879a353edb15e19f91eb63376053cace?cid=70f3ef8a364f451cb421916c3dc8a041
+album: This One's for You Too (Deluxe Edition)
+artist(s): Luke Combs
+-----------------------
+5
+song name: This Is America
+preview song: https://p.scdn.co/mp3-preview/01afc9c7c44d7b4b01d2340a00e586031827b243?cid=70f3ef8a364f451cb421916c3dc8a041
+album: This Is America
+artist(s): Childish Gambino
+-----------------------
+6
+song name: This Is It
+preview song: https://p.scdn.co/mp3-preview/8c84229518688cf9801b35046f3f4f61bee6efb2?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Seasons Change
+artist(s): Scotty McCreery
+-----------------------
+7
+song name: Hurricane
+preview song: https://p.scdn.co/mp3-preview/2181474766346aabbe07fd1881bbdea7f44f6bcd?cid=70f3ef8a364f451cb421916c3dc8a041
+album: This One's for You
+artist(s): Luke Combs
+-----------------------
+8
+song name: When It Rains It Pours
+preview song: https://p.scdn.co/mp3-preview/0a2f1abdc6a4b5e7112320dd098aa910ff0d1207?cid=70f3ef8a364f451cb421916c3dc8a041
+album: This One's for You
+artist(s): Luke Combs
+-----------------------
+9
+song name: Something Just Like This
+preview song: https://p.scdn.co/mp3-preview/cb1ae1f9e2f874dd2d19e4c29edb552777eb1e7a?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Memories...Do Not Open
+artist(s): The Chainsmokers
+-----------------------
+10
+song name: She Got the Best of Me
+preview song: https://p.scdn.co/mp3-preview/2c94e74aa5122c6e49cfbf85b801d5ee843d2e23?cid=70f3ef8a364f451cb421916c3dc8a041
+album: This One's for You Too (Deluxe Edition)
+artist(s): Luke Combs
+-----------------------
+11
+song name: wokeuplikethis*
+preview song: null
+album: Playboi Carti
+artist(s): Playboi Carti
+-----------------------
+12
+song name: One Number Away
+preview song: https://p.scdn.co/mp3-preview/c9f13707182659ce58320adea275513e010debfe?cid=70f3ef8a364f451cb421916c3dc8a041
+album: This One's for You
+artist(s): Luke Combs
+-----------------------
+13
+song name: This Is Me
+preview song: https://p.scdn.co/mp3-preview/4e3a8d43df85b32a1d056f2c3e6c745d6da46359?cid=70f3ef8a364f451cb421916c3dc8a041
+album: The Greatest Showman (Original Motion Picture Soundtrack)
+artist(s): Keala Settle
+-----------------------
+14
+song name: I Don't Wanna Do This Anymore
+preview song: https://p.scdn.co/mp3-preview/e9bdaba4c191c0047758aefc9b372237e3882d4d?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Revenge
+artist(s): XXXTENTACION
+-----------------------
+15
+song name: This Life
+preview song: https://p.scdn.co/mp3-preview/e4b0a402e350266e2d2323d2e395429e8622ab2a?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Father of the Bride
+artist(s): Vampire Weekend
+-----------------------
+16
+song name: This Is Gospel
+preview song: https://p.scdn.co/mp3-preview/bcb98f7e8f0c78c5ad2bff0b10be97aa82453bee?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Too Weird To Live, Too Rare To Die!
+artist(s): Panic! At The Disco
+-----------------------
+17
+song name: This Way
+preview song: https://p.scdn.co/mp3-preview/66d00ffd4911d832249c6f4c7e360aafd5af5cd4?cid=70f3ef8a364f451cb421916c3dc8a041
+album: This Way
+artist(s): Khalid
+-----------------------
+18
+song name: This Love
+preview song: null
+album: Songs About Jane: 10th Anniversary Edition
+artist(s): Maroon 5
+-----------------------
+19
+song name: There Was This Girl
+preview song: null
+album: In A Truck Right Now
+artist(s): Riley Green
+-----------------------
+0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=70f3ef8a364f451cb421916c3dc8a041
+album: 25
+artist(s): Adele
+-----------------------
+1
+song name: Hello Beautiful
+preview song: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Hello Beautiful
+artist(s): Noah Schnacky
+-----------------------
+2
+song name: Hello?
+preview song: null
+album: diary 001
+artist(s): Clairo
+-----------------------
+3
+song name: Hello My Old Heart
+preview song: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=70f3ef8a364f451cb421916c3dc8a041
+album: The Oh Hellos EP
+artist(s): The Oh Hellos
+-----------------------
+4
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Hello
+artist(s): Adele
+-----------------------
+5
+song name: Hello (feat. Lil Pump)
+preview song: https://p.scdn.co/mp3-preview/75de8275cac2532fdda5b16d1fe448f5d36a6a9d?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Hello (feat. Lil Pump)
+artist(s): Ugly God
+-----------------------
+6
+song name: Hello
+preview song: null
+album: Can't Slow Down
+artist(s): Lionel Richie
+-----------------------
+7
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=70f3ef8a364f451cb421916c3dc8a041
+album: 2014 Forest Hills Drive
+artist(s): J. Cole
+-----------------------
+8
+song name: You Can't Hurry Love - 2016 Remaster
+preview song: https://p.scdn.co/mp3-preview/cddedd4dd7339f938daad2355c166f0816ee9271?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Hello, I Must Be Going! (Deluxe Edition)
+artist(s): Phil Collins
+-----------------------
+9
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/e42b8ac847d773c6f6972de7c60c7008cf31a724?cid=70f3ef8a364f451cb421916c3dc8a041
+album: PRETTYMUCH an EP
+artist(s): PRETTYMUCH
+-----------------------
+10
+song name: Intergalactic - Remastered
+preview song: null
+album: Hello Nasty (Deluxe Version/Remastered 2009)
+artist(s): Beastie Boys
+-----------------------
+11
+song name: Ready or Not
+preview song: null
+album: Hello My Name Is...
+artist(s): Bridgit Mendler
+-----------------------
+12
+song name: hello old friend
+preview song: null
+album: brent
+artist(s): Jeremy Zucker
+-----------------------
+13
+song name: Hello, Goodbye - Remastered 2009
+preview song: null
+album: Magical Mystery Tour (Remastered)
+artist(s): The Beatles
+-----------------------
+14
+song name: Hello!
+preview song: https://p.scdn.co/mp3-preview/6048fb830712558ff5f966949874e9fb4ff6bc0b?cid=70f3ef8a364f451cb421916c3dc8a041
+album: The Book Of Mormon (Original Broadway Cast Recording)
+artist(s): Andrew Rannells
+-----------------------
+15
+song name: Hello Darlin'
+preview song: null
+album: The Very Best Of Conway Twitty
+artist(s): Conway Twitty
+-----------------------
+16
+song name: Hello, My Name Is
+preview song: null
+album: Into The Light
+artist(s): Matthew West
+-----------------------
+17
+song name: Hello Sunshine
+preview song: https://p.scdn.co/mp3-preview/1d91492bfbff0dfc29035761a9a804a6f4a2e756?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Hello Sunshine
+artist(s): Bruce Springsteen
+-----------------------
+18
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a19c03080fead4da785057b0dc382d3b0117888?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Hello
+artist(s): 1takejay
+-----------------------
+19
+song name: Hello Bitches
+preview song: https://p.scdn.co/mp3-preview/a6f622422822188dca0ad53b634a11d26920f774?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Hello Bitches
+artist(s): CL
+-----------------------
+Title: The Lego Movie
+Release Year: 2014
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 95%
+Country of Production: USA, Denmark, Australia
+Language: English, Turkish
+Plot: An ordinary LEGO construction worker, thought to be the prophesied as "special", is recruited to join a quest to stop an evil tyrant from gluing the LEGO universe into eternal stasis.
+Actors: Will Arnett, Elizabeth Banks, Craig Berry, Alison Brie
+-----------------------
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=70f3ef8a364f451cb421916c3dc8a041
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+-----------------------
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Millennium
+artist(s): Backstreet Boys
+-----------------------
+2
+song name: I Want It That Way - Reimagined
+preview song: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=70f3ef8a364f451cb421916c3dc8a041
+album: I Want It That Way (Reimagined)
+artist(s): Backstreet Boys
+-----------------------
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Covers Part IV
+artist(s): Anthem Lights
+-----------------------
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=70f3ef8a364f451cb421916c3dc8a041
+album: I Want It That Way
+artist(s): Mick Jensen
+-----------------------
+5
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Under the Covers, Vol. 3
+artist(s): Jess and Gabriel
+-----------------------
+6
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+-----------------------
+7
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+-----------------------
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=70f3ef8a364f451cb421916c3dc8a041
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+-----------------------
+9
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+-----------------------
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+-----------------------
+11
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+-----------------------
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=70f3ef8a364f451cb421916c3dc8a041
+album: NKOTBSB
+artist(s): Backstreet Boys
+-----------------------
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+-----------------------
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Nu Funk
+artist(s): Scary Pockets
+-----------------------
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=70f3ef8a364f451cb421916c3dc8a041
+album: I Want It That Way
+artist(s): Manuel Costa
+-----------------------
+16
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Timeless Love
+artist(s): Love Hits On Piano
+-----------------------
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=70f3ef8a364f451cb421916c3dc8a041
+album: I Want It That Way
+artist(s): Yshop
+-----------------------
+18
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=70f3ef8a364f451cb421916c3dc8a041
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+-----------------------
+19
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=70f3ef8a364f451cb421916c3dc8a041
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+-----------------------
